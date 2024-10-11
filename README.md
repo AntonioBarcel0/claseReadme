@@ -68,8 +68,24 @@ EJEMPLO DE TABLAS
 | Contenido celda 2 x 1 | Contenido celda 2 x 2 |
 
 EJEMPLO PARA INSERTAR IMAGEN
-![README]()
 
-<img src="https://github.com/user-attachments/assets/a9f65ab5-17c0-4feb-bf3e-ee1c726e9cbe"
+<img src="https://github.com/user-attachments/assets/5893ba54-396e-4c2a-a76d-ebce53376266" width="500">
 
-<img src=""
+EJEMPLO DE ENLACE
+[Readme](https://es.lipsum.com/)
+EJEMPLO DE ENLACE AUTOMÁTICO
+[Readme]<https://es.lipsum.com/>
+
+EJEMPLO DE EMOJIS
+:+1:
+
+EJEMPLO DE BLOQUES DE CÓDIGO
+```bash
+npm install
+```
+
+```javascript
+function decirHola (){
+console.log('Hola')
+}
+```
